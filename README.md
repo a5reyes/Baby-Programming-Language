@@ -1,6 +1,6 @@
 # Baby-Programming-Language
 
-The final project for the Bridgewater State University class, COMP 340 - Organization of Programming Languages. We had to create a decipher, lexer, parser and evaluator for an interpreter which makes user input baby language code instead of an arithmetic expression. The baby expression includes baby words, and the words correspond to specific characters.
+5/10/25 - The final project for the Bridgewater State University class, COMP 340 - Organization of Programming Languages. We had to create a decipher, lexer, parser and evaluator for an interpreter which makes user input baby language code instead of an arithmetic expression. The baby expression includes baby words, and the words correspond to specific characters.
 
 The baby expression includes baby words, and the words correspond to specific characters. 
 The
